@@ -1,0 +1,7 @@
+database = database
+table = dictionary
+
+columns:
+id = int primary key not null
+word = varchar(255)
+explanation = varchar(1000)
