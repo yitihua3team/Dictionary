@@ -1,8 +1,8 @@
-﻿package com.beijl695.entity;
+package com.beijl695.entity;
 
 /**
  * 分页Model类
- * @author zsk
+ * @author beijl695
  *
  */
 public class PageBean {
